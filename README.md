@@ -1,2 +1,3 @@
-# PCA-Ising
-Studying the Ising model phase transition using PCA.
+# Ising model phase transition with PCA
+
+  This notebook is based on the paper: **Discovering phases, phase transitions, and crossovers through unsupervised machine learning: A critical examination** ([Link](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.062122)).
